@@ -62,4 +62,4 @@ sudo systemctl enable nexus
 sudo systemctl start nexus
 sudo systemctl status nexus
 echo "end of nexus installation"
-```
+
