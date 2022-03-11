@@ -25,7 +25,7 @@ sudo hostname sonar
 sudo su - sonar
 ```
 
-### Install Java JDK 1.8+
+### Install Java JDK 1.8
 
 ``` sh
 hostname sonar
